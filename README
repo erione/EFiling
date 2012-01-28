@@ -1,0 +1,22 @@
+==============
+About EFiling
+==============
+
+EFiling is an specially made for my dad's tax consultancy firm. Its just a small prototype of Tally which is the most commonly used application for maintaining tax related data of a firm.
+It is implemented in Java and uses MySql as database for storing the data in an organized manner. Its still in alpha phase since I need to add some features like filling/filing tax returns automatically.
+
+===========
+Compilation
+===========
+$javac EFiling.java
+
+=========
+Execution
+=========
+$java EFiling
+
+=====
+Usage
+=====
+ - Executing the program opens a small login window to get access to the main application.
+ - In the main app, a user can create/update new firms/client firms of a particular firm/ledger groups/ledgers and add the sale/purchase details.
